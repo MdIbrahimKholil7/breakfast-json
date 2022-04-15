@@ -1,6 +1,6 @@
 [
     {
-      "img": "breakfast/breakfast1.png",
+      "img": "https://i.ibb.co/Y3bVqF5/breakfast1.png",
       "id": 1,
       "name": "Eggs Bensdict",
       "desc": "How we dream about our future",
@@ -8,7 +8,7 @@
       "price":"7.99"
     },
     {
-      "img": "breakfast/breakfast2.png",
+      "img": "https://i.ibb.co/6RZw6vx/breakfast2.png",
       "id": 2,
       "name": "Breakfast Sandwich",
       "desc": "How we dream about our future",
@@ -16,7 +16,7 @@
       "price":"8.99"
     },
     {
-      "img": "breakfast/breakfast3.png",
+      "img": "https://i.ibb.co/PjjBw7z/breakfast3.png",
       "id": 3,
       "name": "Baked Chicken",
       "desc": "How we dream about our future",
@@ -24,7 +24,7 @@
       "price":"10.99"
     },
     {
-      "img": "breakfast/breakfast4.png",
+      "img": "https://i.ibb.co/54ScG4g/breakfast4.png",
       "id": 4,
       "name": "Bagel And Cream Cheese",
       "desc": "How we dream about our future",
@@ -32,7 +32,7 @@
       "price":"6.99"
     },
     {
-      "img": "breakfast/breakfast5.png",
+      "img": "https://i.ibb.co/5WnSDRh/breakfast5.png",
       "id": 5,
       "name": "Fried Egg Toast",
       "desc": "How we dream about our future",
@@ -40,7 +40,7 @@
       "price":"12.99"
     },
     {
-      "img": "breakfast/breakfast6.png",
+      "img": "https://i.ibb.co/dLP0PCt/breakfast6.png",
       "id": 6,
       "name": "Toast Croissant Fried Egg",
       "desc": "How we dream about our future",
